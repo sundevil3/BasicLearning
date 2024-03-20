@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: RestFulService
+Bundle-SymbolicName: RestFulService
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: RestFulService
+Export-Package: org.restful.serv,
+ org.restful.serv.controller,
+ org.restful.serv.dao,
+ org.restful.serv.model
