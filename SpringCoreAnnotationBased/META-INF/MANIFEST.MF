@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SpringCoreAnnotationBased
+Bundle-SymbolicName: SpringCoreAnnotationBased
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: SpringCoreAnnotationBased
+Export-Package: org.prannoy.springcore,
+ org.prannoy.springcore.model,
+ org.prannoy.springcore.service,
+ org.prannoy.springcore.serviceImpl,
+ org.prannoy.springcore.test

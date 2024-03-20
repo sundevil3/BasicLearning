@@ -1,0 +1,10 @@
+2018-10-26 21:18:56 DEBUG Log4JMaven:10 - This is debug : prannoy
+2018-10-26 21:18:56 INFO  Log4JMaven:13 - This is info : prannoy
+2018-10-26 21:18:56 WARN  Log4JMaven:18 - This is warn : prannoy
+2018-10-26 21:18:56 ERROR Log4JMaven:19 - This is error : prannoy
+2018-10-26 21:18:56 FATAL Log4JMaven:20 - This is fatal : prannoy
+2018-10-27 07:25:52 DEBUG Log4JMaven:10 - This is debug : prannoy
+2018-10-27 07:25:52 INFO  Log4JMaven:13 - This is info : prannoy
+2018-10-27 07:25:52 WARN  Log4JMaven:18 - This is warn : prannoy
+2018-10-27 07:25:52 ERROR Log4JMaven:19 - This is error : prannoy
+2018-10-27 07:25:52 FATAL Log4JMaven:20 - This is fatal : prannoy

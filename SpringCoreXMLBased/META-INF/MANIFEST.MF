@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SpringCoreXMLBased
+Bundle-SymbolicName: SpringCoreXMLBased
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: SpringCoreXMLBased
+Export-Package: org.prannoy.springcore,
+ org.prannoy.springcore.SpringCoreXMLBased,
+ org.prannoy.springcore.model,
+ org.prannoy.springcore.serivceImpl,
+ org.prannoy.springcore.service,
+ org.prannoy.springcore.test

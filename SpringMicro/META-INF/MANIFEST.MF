@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SpringMicro
+Bundle-SymbolicName: SpringMicro
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: SpringMicro
+Export-Package: org.spring.micro.accounts,
+ org.spring.micro.exceptions,
+ org.spring.micro.services,
+ org.spring.micro.services.accounts,
+ org.spring.micro.services.registration,
+ org.spring.micro.services.web

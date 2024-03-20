@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ServletAssignment2
+Bundle-SymbolicName: ServletAssignment2
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: ServletAssignment2
+Export-Package: .,
+ boopathy.pack,
+ pavan.pack
