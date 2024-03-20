@@ -3,21 +3,21 @@ package package_v1;
 
 import java.math.BigInteger;
 
-public class Girl {
+public class Person {
 	
 	int age;
 	String  name;
 	double weight;
 
-	public Girl() {
+	public Person() {
 		//super();
 		age = 32;
-		name = "Katrina";
-		weight = 51.56;
+		name = "Pawan";
+		weight = 71.56;
 
 	}
 	
-	public Girl(int age, String name, double weight) {
+	public Person(int age, String name, double weight) {
 		//super();
 		this.age = age;
 		this.name = name;
@@ -27,12 +27,12 @@ public class Girl {
 
 	public void eat() {
 		//int a = 10001;
-		System.out.println("she eats food \n");
+		System.out.println("he is eating food \n");
 		//return a;
 	}
 
 	public void sleep() {
-		System.out.println("she is sleeping");
+		System.out.println("he is sleeping");
 	}
 
 	public BigInteger GPACalculation(int a, int b, int c) {
@@ -49,24 +49,24 @@ public class Girl {
 
 	public static void main(String[] args) {
 
-		Girl vani = new Girl();
-		Girl deepu = new Girl(29, "deepthi", 48.84);
+		Person p1 = new Person();
+		Person p2 = new Person(29, "Mahesh", 68.84);
 		
-		System.out.println("this is vani object before overriding values" +vani.age + " " + vani.name+ " " + vani.weight + "\n");
+		System.out.println("this is p1 object before overriding values" +p1.age + " " + p1.name+ " " + p1.weight + "\n");
 		
 		
-		vani.age = 26;
-		vani.name = "Vaani";
+		p1.age = 26;
+		p1.name = "Ram Charan";
 	
-		System.out.println("this is vani object after overriding or updating values" + vani.age + " " + vani.name+ " " + vani.weight + "\n");
+		System.out.println("this is p1 object after overriding or updating values" + p1.age + " " + p1.name+ " " + p1.weight + "\n");
 		
-		System.out.println(deepu.age + " " + deepu.name + " " + deepu.weight + "\n");
+		System.out.println(p2.age + " " + p2.name + " " + p2.weight + "\n");
 				
-		//vani.eat();
+		p1.eat();
 
-		System.out.println("first \n"+ vani.GPACalculation(34, 45, 63) + "\n");
+		System.out.println("first \n"+ p1.GPACalculation(34, 45, 63) + "\n");
 
-		BigInteger newVar = vani.GPACalculation(23, 45, 808);
+		BigInteger newVar = p1.GPACalculation(23, 45, 808);
 
 		System.out.println("second \n" +newVar);
 		
