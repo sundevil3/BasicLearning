@@ -1,0 +1,118 @@
+2018-10-27 08:05:37 DEBUG PostrgreInterface:82 - The number of records in the CSV file is: 100
+2018-10-27 08:06:23 DEBUG PostrgreInterface:581 - Employee Record with the details: Employee [id=0, firstName=fghgvjbh, lastName=vgjbhkn, email=vgubh6, salary=6787y8, threadNum=0] has been inserted successfully
+2018-10-27 08:06:41 DEBUG PostrgreInterface:431 - Data has been read from the database to display on the JTable 
+2018-10-27 08:07:13 DEBUG PostrgreInterface:502 - Employee Record with the ID126007has been updated as: Bertram,  Carlail,  bertram.carlisle@aol.com,  163773
+2018-10-27 08:07:23 DEBUG PostrgreInterface:431 - Data has been read from the database to display on the JTable 
+2018-10-27 08:07:30 DEBUG PostrgreInterface:539 - Employee Record with the ID126004has been Deleted Successfully
+2018-10-27 08:11:45 DEBUG PostrgreInterface:82 - The number of records in the CSV file is: 100
+2018-10-27 08:12:01 DEBUG PostrgreInterface:582 - Employee Record with the details: Employee [id=0, firstName=sdafdf, lastName=sdgfg, email=sdgfgsgfdshg, salary=gfdhsgf, threadNum=0] has been inserted successfully
+2018-10-27 08:12:08 DEBUG PostrgreInterface:431 - Data has been read from the database to display on the JTable 
+2018-10-27 08:12:18 DEBUG PostrgreInterface:503 - Employee Record with the ID 126003has been updated as: Employee [id=0, firstName=Steven, lastName= Rendonsdfgbfnsernh, email= steven.rendon@gmail.com, salary=7675876, threadNum=0]
+2018-10-27 08:13:25 DEBUG PostrgreInterface:82 - The number of records in the CSV file is: 100
+2018-10-27 08:13:35 DEBUG PostrgreInterface:582 - Employee Record with the details: Employee [id=0, firstName=wrvetbr, lastName=rebtr, email=fretrny, salary=retbrny, threadNum=0] has been inserted successfully
+2018-10-27 08:13:39 DEBUG PostrgreInterface:431 - Data has been read from the database to display on the JTable 
+2018-10-27 08:13:44 DEBUG PostrgreInterface:503 - Employee Record with the ID 126005has been updated as: Employee [id=0, firstName=Almeta, lastName= Brookiawerbt, email= almeta.brookins@gmail.com, salary= 90576, threadNum=0]
+2018-10-27 08:15:17 DEBUG PostrgreInterface:431 - Data has been read from the database to display on the JTable 
+2018-10-27 08:15:20 DEBUG PostrgreInterface:540 - Employee Record with the ID126008has been Deleted Successfully
+2018-10-27 08:15:45 DEBUG PostrgreInterface:431 - Data has been read from the database to display on the JTable 
+2018-10-27 08:25:51 DEBUG PostrgreInterface:77 - The number of records in the CSV file is: 100
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Angelique, lastName= Goodwin, email= angelique.goodwin@gmail.com, salary= 193710, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Jeni, lastName= Shaffer, email= jeni.shaffer@gmail.com, salary= 144133, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Donald, lastName= Farris, email= donald.farris@bellsouth.net, salary= 132617, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Steven, lastName= Rendon, email= steven.rendon@gmail.com, salary= 77898, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Jenell, lastName= Almanza, email= jenell.almanza@yahoo.com, salary= 139856, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Almeta, lastName= Brookins, email= almeta.brookins@gmail.com, salary= 90576, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Bobbie, lastName= Branson, email= bobbie.branson@hotmail.com, salary= 178641, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Bertram, lastName= Carlisle, email= bertram.carlisle@aol.com, salary= 163773, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Carlton, lastName= Leclair, email= carlton.leclair@cox.net, salary= 50397, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Todd, lastName= Slater, email= todd.slater@earthlink.net, salary= 54458, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Adalberto, lastName= Hazel, email= adalberto.hazel@yahoo.co.in, salary= 120471, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Seymour, lastName= Nelson, email= seymour.nelson@hotmail.com, salary= 77853, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Vicente, lastName= Dawkins, email= vicente.dawkins@gmail.com, salary= 169446, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:01 DEBUG Employee:102 - Record Employee [id=0, firstName=Rex, lastName= Ng, email= rex.ng@yahoo.com, salary= 153446, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Arlena, lastName= Clough, email= arlena.clough@yahoo.com, salary= 95109, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Cory, lastName= Clarke, email= cory.clarke@shell.com, salary= 179134, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Sofia, lastName= Poole, email= sofia.poole@earthlink.net, salary= 150019, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Samuel, lastName= Wendt, email= samuel.wendt@bellsouth.net, salary= 198487, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Virgil, lastName= Trowbridge, email= virgil.trowbridge@aol.com, salary= 199714, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Elda, lastName= Champagne, email= elda.champagne@gmail.com, salary= 146140, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Robert, lastName= Guinn, email= robert.guinn@walmart.com, salary= 86539, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Humberto, lastName= Sauer, email= humberto.sauer@yahoo.com, salary= 116308, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Anastasia, lastName= Childers, email= anastasia.childers@hotmail.com, salary= 184099, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Collene, lastName= Kidd, email= collene.kidd@shell.com, salary= 59428, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Harris, lastName= Beavers, email= harris.beavers@shell.com, salary= 147337, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Kathe, lastName= John, email= kathe.john@gmail.com, salary= 91921, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Ashly, lastName= Stanton, email= ashly.stanton@gmail.com, salary= 143236, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Geraldo, lastName= Easley, email= geraldo.easley@shaw.ca, salary= 84087, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Leigh, lastName= Fite, email= leigh.fite@gmail.com, salary= 87149, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Devon, lastName= Knox, email= devon.knox@gmail.com, salary= 111117, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Yevette, lastName= Mullis, email= yevette.mullis@gmail.com, salary= 129752, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Irena, lastName= Dang, email= irena.dang@gmail.com, salary= 192236, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Cory, lastName= Hayden, email= cory.hayden@gmail.com, salary= 79619, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Dolores, lastName= Begley, email= dolores.begley@hotmail.com, salary= 182967, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Benjamin, lastName= Doss, email= benjamin.doss@gmail.com, salary= 126429, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Theron, lastName= Farmer, email= theron.farmer@gmail.com, salary= 85523, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Hilton, lastName= Mcgehee, email= hilton.mcgehee@microsoft.com, salary= 149794, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Sixta, lastName= Beaudoin, email= sixta.beaudoin@gmail.com, salary= 122324, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Sade, lastName= Shay, email= sade.shay@gmail.com, salary= 58708, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Shemika, lastName= Beckman, email= shemika.beckman@hotmail.com, salary= 117633, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Winfred, lastName= Gonzales, email= winfred.gonzales@aol.com, salary= 126630, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Rogelio, lastName= Woodall, email= rogelio.woodall@gmail.com, salary= 172325, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Damion, lastName= Rafferty, email= damion.rafferty@yahoo.com, salary= 167184, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Dannie, lastName= Catron, email= dannie.catron@earthlink.net, salary= 176777, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Stephan, lastName= Titus, email= stephan.titus@hotmail.com, salary= 115488, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:02 DEBUG Employee:102 - Record Employee [id=0, firstName=Dorian, lastName= Sage, email= dorian.sage@shaw.ca, salary= 66883, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Jake, lastName= Espinal, email= jake.espinal@shaw.ca, salary= 140108, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Claudio, lastName= Heck, email= claudio.heck@aol.com, salary= 48198, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Marcel, lastName= Trotter, email= marcel.trotter@aol.com, salary= 50635, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Dillon, lastName= Dominguez, email= dillon.dominguez@gmail.com, salary= 53198, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Sammy, lastName= Dewitt, email= sammy.dewitt@ibm.com, salary= 45889, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Sterling, lastName= Serna, email= sterling.serna@hotmail.com, salary= 136675, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Ivonne, lastName= Manning, email= ivonne.manning@yahoo.ca, salary= 87746, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Clair, lastName= Harwell, email= clair.harwell@bp.com, salary= 194249, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Jenni, lastName= Goolsby, email= jenni.goolsby@gmail.com, salary= 185593, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Tayna, lastName= Poston, email= tayna.poston@yahoo.ca, salary= 149011, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Vern, lastName= Mackenzie, email= vern.mackenzie@gmail.com, salary= 76401, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Harrison, lastName= Hawk, email= harrison.hawk@hotmail.co.uk, salary= 191292, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Preston, lastName= Tribble, email= preston.tribble@exxonmobil.com, salary= 185438, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Aleen, lastName= Araujo, email= aleen.araujo@gmail.com, salary= 56546, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Brent, lastName= Carrillo, email= brent.carrillo@aol.com, salary= 192586, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Adalberto, lastName= Tate, email= adalberto.tate@shaw.ca, salary= 46371, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Rafael, lastName= Weeks, email= rafael.weeks@gmail.com, salary= 49301, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Aurea, lastName= Pullen, email= aurea.pullen@gmail.com, salary= 137648, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Ramiro, lastName= Holguin, email= ramiro.holguin@gmail.com, salary= 171193, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Celine, lastName= Lumpkin, email= celine.lumpkin@gmail.com, salary= 124808, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Bryant, lastName= Naylor, email= bryant.naylor@hotmail.com, salary= 131219, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Oswaldo, lastName= Winchester, email= oswaldo.winchester@gmail.com, salary= 100218, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Kacy, lastName= Crandall, email= kacy.crandall@hotmail.com, salary= 178521, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Brock, lastName= Hutcherson, email= brock.hutcherson@hotmail.com, salary= 137705, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Ramiro, lastName= Conover, email= ramiro.conover@earthlink.net, salary= 187877, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Myron, lastName= Marble, email= myron.marble@gmail.com, salary= 164189, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Freeman, lastName= Kern, email= freeman.kern@gmail.com, salary= 124776, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Mathew, lastName= Whitfield, email= mathew.whitfield@gmail.com, salary= 84449, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Alexander, lastName= Goad, email= alexander.goad@cox.net, salary= 71123, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Renee, lastName= Beverly, email= renee.beverly@rediffmail.com, salary= 104020, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Tommie, lastName= Weller, email= tommie.weller@cox.net, salary= 136568, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Michale, lastName= Colson, email= michale.colson@com.cast.net, salary= 115204, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Denisha, lastName= Fitch, email= denisha.fitch@msn.com, salary= 140459, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Napoleon, lastName= Kelsey, email= napoleon.kelsey@hotmail.com, salary= 91209, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Tonya, lastName= Wilson, email= tonya.wilson@aol.com, salary= 109416, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:03 DEBUG Employee:102 - Record Employee [id=0, firstName=Clement, lastName= Hidalgo, email= clement.hidalgo@gmail.com, salary= 113419, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Charles, lastName= Quintero, email= charles.quintero@gmail.com, salary= 115542, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Chastity, lastName= Pineda, email= chastity.pineda@shaw.ca, salary= 136780, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Verna, lastName= Michaud, email= verna.michaud@gmail.com, salary= 100243, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Alfred, lastName= Beamon, email= alfred.beamon@gmail.com, salary= 118321, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Michal, lastName= Maurer, email= michal.maurer@yahoo.com, salary= 48687, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Wenona, lastName= Carmichael, email= wenona.carmichael@yahoo.com, salary= 53789, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Allan, lastName= Bernhardt, email= allan.bernhardt@gmail.com, salary= 119879, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Nam, lastName= Schmidt, email= nam.schmidt@yahoo.co.uk, salary= 147420, threadNum=0] has been inserted using the Thread Num: 0
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Yolande, lastName= Piper, email= yolande.piper@gmail.com, salary= 57365, threadNum=0] has been inserted using the Thread Num: 1
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Whitney, lastName= Shipman, email= whitney.shipman@gmail.com, salary= 99825, threadNum=0] has been inserted using the Thread Num: 2
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Terence, lastName= Ferro, email= terence.ferro@gmail.com, salary= 125561, threadNum=0] has been inserted using the Thread Num: 3
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Alberto, lastName= Riley, email= alberto.riley@gmail.com, salary= 59008, threadNum=0] has been inserted using the Thread Num: 4
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Jacqueline, lastName= Burk, email= jacqueline.burk@verizon.net, salary= 96703, threadNum=0] has been inserted using the Thread Num: 5
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Clemente, lastName= Gould, email= clemente.gould@hotmail.com, salary= 59506, threadNum=0] has been inserted using the Thread Num: 6
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Chang, lastName= Roden, email= chang.roden@yahoo.com, salary= 53430, threadNum=0] has been inserted using the Thread Num: 7
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Marvin, lastName= Nickel, email= marvin.nickel@ibm.com, salary= 94656, threadNum=0] has been inserted using the Thread Num: 8
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Eldora, lastName= Tribble, email= eldora.tribble@earthlink.net, salary= 91984, threadNum=0] has been inserted using the Thread Num: 9
+2018-10-27 08:26:04 DEBUG Employee:102 - Record Employee [id=0, firstName=Marcel, lastName= Trotter, email= marcel.trotter@aol.com, salary= 50635, threadNum=0] has been inserted using the Thread Num: 0

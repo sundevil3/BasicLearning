@@ -1,0 +1,5 @@
+2018-10-27 09:09:20 DEBUG Log4JEx:12 - This is debug : prannoy
+2018-10-27 09:09:20 INFO  Log4JEx:15 - This is info : prannoy
+2018-10-27 09:09:20 WARN  Log4JEx:20 - This is warn : prannoy
+2018-10-27 09:09:20 ERROR Log4JEx:21 - This is error : prannoy
+2018-10-27 09:09:20 FATAL Log4JEx:22 - This is fatal : prannoy

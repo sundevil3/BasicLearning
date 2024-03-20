@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SessionCodes
+Bundle-SymbolicName: SessionCodes
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: SessionCodes.jar,
+ Administrator/Desktop/Stuff2/IMCS/project 1/commons-io-2.6.jar,
+ Administrator/Desktop/Stuff2/IMCS/project 1/log4j-1.2.17.jar,
+ Administrator/Desktop/Stuff2/IMCS/project 1/opencsv-3.3.jar,
+ Administrator/Desktop/Stuff2/IMCS/project 1/postgresql-42.2.5.jar,
+ Administrator/Desktop/Stuff2/IMCS/project 1/rs2xml.jar
+Automatic-Module-Name: SessionCodes
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Export-Package: org.prannoy.core,
+ org.prannoy.core.comparators,
+ org.prannoy.core.jdbc,
+ org.prannoy.core.models,
+ org.prannoy.core.tests

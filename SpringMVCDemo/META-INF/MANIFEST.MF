@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SpringMVCDemo
+Bundle-SymbolicName: SpringMVCDemo
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Automatic-Module-Name: SpringMVCDemo
+Export-Package: org.pran.spring.controller,
+ org.pran.spring.dao,
+ org.pran.spring.model,
+ org.pran.spring.service
