@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="BasicLearning">
+        
+    <wb-module deploy-name="JAVABasics">
+                
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
-        <property name="context-root" value="BasicLearning"/>
-        <property name="java-output-path" value="/BasicLearning/build/classes"/>
+                
+        <property name="java-output-path" value="/JAVABasics/build/classes"/>
+        <property name="context-root" value="JAVABasics"/>
+            
     </wb-module>
+    
 </project-modules>
