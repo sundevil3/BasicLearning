@@ -39,7 +39,7 @@ public class FileController {
 		} else {
 			System.out.println("Fetching file");
 			MultipartFile multipartFile = file.getMultipartFile();
-			String uploadPath = "C:\\Users\\Administrator\\Desktop\\Stuff2\\Git Repos\\sessionxyz\\SpringMVCDemo\\src\\main\\resources\\";
+			String uploadPath = "C:\\Users\\Administrator\\Desktop\\Stuff2\\Git Repos\\sessionxyz\\welearn\\src\\main\\resources\\";
 			FileCopyUtils.copy(file.getMultipartFile().getBytes(), new File(uploadPath+file.getMultipartFile().getOriginalFilename()));
 			String fileName = multipartFile.getOriginalFilename();
 			model.addAttribute("fileName", fileName);
